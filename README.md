@@ -3,7 +3,7 @@
 > 專案完成於2019/02
 
 ## 影片展示
-[[Youtube] MineGame by Xhadow0823]()
+[[Youtube] MineGame by Xhadow0823](https://youtu.be/wGnHfupoyJQ)
 
 ## 操作說明
 |操作 |功能    |
